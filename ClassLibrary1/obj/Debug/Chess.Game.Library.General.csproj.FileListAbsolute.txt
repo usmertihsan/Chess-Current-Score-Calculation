@@ -1,0 +1,6 @@
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\obj\Debug\Chess.Game.Library.General.csproj.AssemblyReference.cache
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\obj\Debug\Chess.Game.Library.General.csproj.CoreCompileInputs.cache
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\merti\source\repos\ChessScoreCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

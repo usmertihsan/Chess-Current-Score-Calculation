@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Game.UI.Consolee", "Chess.Game.UI.Consolee\Chess.Game.UI.Consolee.csproj", "{064059CC-1C2F-4553-956B-B0DC9B4CF00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Game.Engine", "Chess.Game.Engine\Chess.Game.Engine.csproj", "{093F83A3-2796-4F8D-BBB3-C9097F428580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess.Game.Library.General", "ClassLibrary1\Chess.Game.Library.General.csproj", "{179B98A8-2661-4049-A047-8065146E0B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064059CC-1C2F-4553-956B-B0DC9B4CF00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064059CC-1C2F-4553-956B-B0DC9B4CF00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064059CC-1C2F-4553-956B-B0DC9B4CF00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064059CC-1C2F-4553-956B-B0DC9B4CF00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093F83A3-2796-4F8D-BBB3-C9097F428580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093F83A3-2796-4F8D-BBB3-C9097F428580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093F83A3-2796-4F8D-BBB3-C9097F428580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093F83A3-2796-4F8D-BBB3-C9097F428580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179B98A8-2661-4049-A047-8065146E0B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179B98A8-2661-4049-A047-8065146E0B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179B98A8-2661-4049-A047-8065146E0B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179B98A8-2661-4049-A047-8065146E0B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5101E3A-702A-4A8E-82E8-E27013C214E6}
+	EndGlobalSection
+EndGlobal
